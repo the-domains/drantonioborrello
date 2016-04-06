@@ -1,0 +1,28 @@
+name: DrAntonioBorrello
+favicon: null
+layout_spectrum: 0.7007689168676734
+typography_spectrum: 0.9599460591562092
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.013367870356887579
+  lightness: 0.2656928710639477
+  saturation: 0.3228925031144172
+  rhythmicContrast: 0.802075028186664
+purpose: []
